@@ -1,3 +1,4 @@
+[![Build Status](https://iainstewart.visualstudio.com/MyFirstProject/_apis/build/status/MyFirstProject-Docker%20container-CI?branchName=master)](https://iainstewart.visualstudio.com/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
